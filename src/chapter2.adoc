@@ -1,7 +1,7 @@
 [[chapter2]]
 == The Second Chapter
 
-. The first item.
+. The first item. This is a new item.
 
 . The second item.
 +
